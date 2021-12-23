@@ -1,0 +1,8 @@
+*.vs
+x64
+*.sln
+opencv/x64
+opencv/*.props
+opencv/*.vcxproj
+opencv/*.filters
+opencv/*.user
