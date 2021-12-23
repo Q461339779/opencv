@@ -13,7 +13,8 @@ int main()
     //videoPlay();
     //MultiChannelBlending();
     //bool videoCapture();
-
+    //contrastControl();
+    opticalflow();
 	waitKey(0);
 	return 0;
 }
